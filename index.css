@@ -1,0 +1,18 @@
+#top-nav > .main > .tabs ul > li {
+    border-top: none;
+    border-bottom: none;
+}
+
+#getting-started,
+#please-publish-your-membership {
+    text-align: center;
+}
+
+#getting-started > p:first-child {
+    font-size: larger;
+}
+
+.navlists {
+    font-size: larger;
+    margin-top: 1em;
+}

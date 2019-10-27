@@ -1,0 +1,4 @@
+Sitemap: https://chat.hexstreamsoft.com/sitemap.xml
+
+User-agent: *
+Disallow: /special/

@@ -1,0 +1,19 @@
+#default-policies {
+    font-size: larger;
+}
+
+#default-policies > p {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#default-policies .tags .tag,
+.cards .card .tags .tag {
+    opacity: 1;
+}
+
+#synchronized-channel-descriptions {
+    margin-top: 2em;
+    margin-bottom: -1em;
+    text-align: center;
+}
