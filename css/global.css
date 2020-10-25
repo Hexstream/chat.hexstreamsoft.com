@@ -1,11 +1,6 @@
 @import "https://global.hexstream.dev/css/global.css";
 @import "https://global.hexstream.dev/css/cards.css";
 
-.cards {
-    align-items: flex-start;
-    margin-left: -1em;
-}
-
 .cards .card .tags.addenda {
     position: absolute;
     top: 100%;
