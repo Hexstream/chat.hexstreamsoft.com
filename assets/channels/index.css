@@ -9,7 +9,7 @@
 
 #default-policies .tags .tag,
 .cards .card .tags .tag {
-    opacity: 1;
+    opacity: revert;
 }
 
 #synchronized-channel-descriptions {
